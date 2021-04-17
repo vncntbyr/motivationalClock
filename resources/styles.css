@@ -1,0 +1,102 @@
+.background {
+  background: black;
+}
+
+#top-left{
+  opacity: 0.0;
+}
+#top-right{
+  opacity: 0.0;
+}
+#bottom-left{
+  opacity: 0.0;
+}
+#bottom-right{
+  opacity: 0.0;
+}
+#test{
+  opacity: 0.0;
+}
+#myLabel {
+  fill: white;
+  font-size: 70px;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 17%;
+  
+}
+#wrapper{
+  x: 5%;
+  width: 90%;
+  fill: red;
+}
+#quote{
+  fill: white;
+  font-size: 28px;
+  font-family: Seville-Regular;
+  text-anchor: middle;
+  y: 25%;
+  width: 100%;
+}
+#author{
+  fill: white;
+  font-size: 24px;
+  text-anchor: middle;
+  x: 50%;
+  y: 95%;
+  font-family: Seville-Italic;
+  text-anchor: middle;
+}
+
+#list-item-1{
+  fill: white;
+  x: 50%;
+  y: 35%;
+  text-anchor: middle;
+  font-size: 34px;
+  text-length: 15;
+}
+
+#list-item-2{
+  fill: white;
+  x: 44%;
+  y: 53%; 
+  text-anchor: start;
+  font-size: 34px;
+  text-length: 15;
+}
+
+#list-item-3{
+  fill: white;
+  x: 44%;
+  y: 68%;
+  text-anchor: start;
+  font-size: 34px;
+  text-length: 15;
+}
+
+#list-item-4{
+  fill: white;
+  x: 44%;
+  y: 83%;
+  text-anchor: start;
+  font-size: 34px;
+  text-length: 15;
+}
+
+#heart{
+  x: 28%;
+  y: 42%;
+}
+
+#steps{
+  x: 28%;
+  y: 57%;
+}
+
+#cals{
+  x: 28%;
+  y: 72%;
+}

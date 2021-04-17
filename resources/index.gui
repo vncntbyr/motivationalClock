@@ -1,0 +1,38 @@
+<svg class="background">
+  <rect id="top-left" width="35%" height="35%"
+        fill="red" pointer-events="visible" x="0" y="0" />
+  
+  <rect id="top-right" width="35%" height="35%"
+        fill="red" pointer-events="visible" x="195" y="0" />
+  
+  <rect id="bottom-left" width="35%" height="35%"
+        fill="red" pointer-events="visible" x="0" y="195" />
+  
+  <rect id="bottom-right" width="35%" height="35%"
+        fill="red" pointer-events="visible" x="195" y="195" />
+  
+  <image id="watch2" href="pictures/Engel.png"/>
+  
+  <text id="myLabel" />
+  
+  <g id="screen1">
+    <svg id="wrapper">
+      <textarea id="quote" text-length="100"></textarea>
+    </svg>
+
+    <text id="author" text-length="100"></text>
+  </g>
+  
+  <g id="screen2">
+    <text id="list-item-1">  n.A.</text>
+    <image id ="heart" href="icons/stat_hr_open_32px.png" fill="red" width="15%" height="15%"/>
+    <text id="list-item-2">  n.A.</text>
+    <image id ="steps" href="icons/stat_steps_open_32px.png" fill="green" width="15%" height="15%"/>
+    <text id="list-item-3">  n.A.</text>
+    <image id ="cals" href="icons/stat_cals_open_32px.png" fill="yellow" width="15%" height="15%"/>
+    <text id="list-item-4">  n.A.</text>
+  </g>
+    
+  <rect id="test" width="100%" height="30%" fill="red" pointer-events="visible" x="0" y="104"/>
+</svg>
+
